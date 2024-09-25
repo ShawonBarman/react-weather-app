@@ -24,8 +24,8 @@ To run these apps locally, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/ShawonBarman/react-password-generator-app.git
-   cd react-password-generator-app
+   git clone https://github.com/ShawonBarman/react-weather-app.git
+   cd react-weather-app
    ```
 
 2. **Install dependencies:**
