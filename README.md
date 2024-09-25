@@ -2,6 +2,8 @@
 
 This is a simple weather application built with React and the OpenWeather API. It allows users to search for weather information by entering a city name and displays real-time weather data such as temperature, wind speed, humidity, and more. 
 
+### Live: https://react-weather-app-shawon.netlify.app/
+
 ## Features
 - City name search
 - Displays weather conditions, temperature, humidity, wind speed, visibility, and more
